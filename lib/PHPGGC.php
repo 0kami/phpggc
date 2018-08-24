@@ -30,7 +30,6 @@ class PHPGGC
         global $argv;
 
         $parameters = $this->parse_cmdline($argv);
-
         if(count($parameters) < 1)
         {
             $this->help();

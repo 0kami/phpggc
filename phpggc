@@ -2,6 +2,7 @@
 <?php
 
 require_once('lib/PHPGGC.php');
+require_once("lib/opis/closure/autoload.php");
 
 $x = new PHPGGC();
 

@@ -8,6 +8,12 @@ Currently, the tool supports: Doctrine, Guzzle, Laravel, Magento, Monolog, Phalc
 
 PHP >= 5.6 is required to run PHPGGC.
 
+## Update
+
+* ThinkPHP v5.0.x file write
+* ThinkPHP v5.2.x RCE
+* ThinkPHP v6.0.x RCE
+
 ## Usage
 
 Run `./phpggc -l` to obtain a list of gadget chains:

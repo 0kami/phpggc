@@ -13,6 +13,7 @@ PHP >= 5.6 is required to run PHPGGC.
 * ThinkPHP v5.0.x file write
 * ThinkPHP v5.2.x RCE
 * ThinkPHP v6.0.x RCE
+* ThinkPHP v5.x file delete
 
 ## Usage
 
